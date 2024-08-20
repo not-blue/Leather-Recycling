@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather"
+    },
+    "title": "Leather Recycling",
+    "description": "Recycle rotten flesh, leather armor, item frames and more back into leather or rabbit hide. Some recipes use the crafting table while others use a furnace or smoker.",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:notblue",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
