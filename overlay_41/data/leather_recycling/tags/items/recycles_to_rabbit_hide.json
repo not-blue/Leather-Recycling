@@ -15,6 +15,10 @@
     {
       "id": "minecraft:enchanted_book",
       "required": false
+    },
+    {
+      "id": "minecraft:bundle",
+      "required": false
     }
   ]
 }

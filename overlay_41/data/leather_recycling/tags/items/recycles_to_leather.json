@@ -19,10 +19,6 @@
     {
       "id": "minecraft:leather_leggings",
       "required": false
-    },
-    {
-      "id": "minecraft:bundle",
-      "required": false
     }
   ]
 }
