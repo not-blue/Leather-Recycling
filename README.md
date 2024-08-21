@@ -1,6 +1,6 @@
 # Leather Recycling
 
-This Minecraft data pack allows players to recycle leather armor into leather and other items into rabbit hide.
+Recycle leather armor into leather, and item frames into rabbit hide. This pack also adds recipes for smelting rotten flesh into leather and deconstructing leather into rabbit hide, as well as the new bundle recipe from snapshot 24w33a.
 
 ### Recycles to leather
 - Leather helmet
@@ -8,10 +8,10 @@ This Minecraft data pack allows players to recycle leather armor into leather an
 - Leather leggings
 - Leather boots
 - Leather horse armor
-- Bundle
 
 ### Recycles to rabbit hide
 - Item frame
 - Glow item frame
 - Book
 - Enchanted book
+- Bundle
