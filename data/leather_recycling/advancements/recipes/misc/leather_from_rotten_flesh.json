@@ -4,19 +4,19 @@
     "has_smelting_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "leather_recycling:rotten_flesh_to_leather_smelting"
+        "recipe": "leather_recycling:leather_from_rotten_flesh_smelting"
       }
     },
     "has_campfire_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "leather_recycling:rotten_flesh_to_leather_campfire"
+        "recipe": "leather_recycling:leather_from_rotten_flesh_campfire"
       }
     },
     "has_smoking_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "leather_recycling:rotten_flesh_to_leather_smoking"
+        "recipe": "leather_recycling:leather_from_rotten_flesh_smoking"
       }
     },
     "has_rotten_flesh": {
@@ -42,9 +42,9 @@
   ],
   "rewards": {
     "recipes": [
-      "leather_recycling:rotten_flesh_to_leather_campfire",
-      "leather_recycling:rotten_flesh_to_leather_smoking",
-      "leather_recycling:rotten_flesh_to_leather_smelting"
+      "leather_recycling:leather_from_rotten_flesh_campfire",
+      "leather_recycling:leather_from_rotten_flesh_smoking",
+      "leather_recycling:leather_from_rotten_flesh_smelting"
     ]
   },
   "sends_telemetry_event": false
