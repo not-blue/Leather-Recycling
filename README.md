@@ -8,14 +8,13 @@ Recycle leather armor into leather, and item frames into rabbit hide. This pack 
 - Leather leggings
 - Leather boots
 - Leather horse armor
+- Bundle (four bundles to three leather)
 
 ### Recycles to rabbit hide
 - Item frame
 - Glow item frame
 - Book
 - Enchanted book
-- Bundle
-
 
 
 ## License
