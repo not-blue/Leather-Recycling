@@ -1,6 +1,6 @@
 # Leather Recycling
 
-Recycle leather armor into leather, and item frames into rabbit hide. This pack also adds recipes for smelting rotten flesh into leather and deconstructing leather into rabbit hide, as well as the new bundle recipe from snapshot 24w33a.
+Recycle leather armor into leather, and item frames into rabbit hide. This pack also adds recipes for smelting rotten flesh into leather and deconstructing leather into rabbit hide, and it backports the bundle recipe from 1.21.2 to all previous versions.
 
 ### Recycles to leather
 - Leather helmet
@@ -8,6 +8,7 @@ Recycle leather armor into leather, and item frames into rabbit hide. This pack 
 - Leather leggings
 - Leather boots
 - Leather horse armor
+- Saddle
 - Bundle (four bundles to three leather)
 
 ### Recycles to rabbit hide
