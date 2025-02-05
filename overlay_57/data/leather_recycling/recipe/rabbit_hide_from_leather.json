@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "rabbit_hide",
   "ingredients": [
-    "#leather_recycling:recycles_to_rabbit_hide"
+    "minecraft:leather"
   ],
   "result": {
     "id": "minecraft:rabbit_hide",
