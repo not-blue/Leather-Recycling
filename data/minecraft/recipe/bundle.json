@@ -15,7 +15,8 @@
       }
     },
     "result": {
-      "id": "minecraft:bundle"
+      "id": "minecraft:bundle",
+      "count": 1
     }
   }
   
