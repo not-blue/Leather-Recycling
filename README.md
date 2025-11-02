@@ -1,6 +1,6 @@
 # Leather Recycling
 
-Recycle leather armor into leather, and item frames into rabbit hide. This pack also adds recipes for smelting rotten flesh into leather and deconstructing leather into rabbit hide, and it backports the bundle recipe from 1.21.2 to all previous versions.
+Recycle leather armor into leather, and item frames into rabbit hide. This pack also adds recipes for smelting rotten flesh into leather and deconstructing leather into rabbit hide.
 
 ### Recycles to leather
 - Leather helmet
@@ -9,6 +9,7 @@ Recycle leather armor into leather, and item frames into rabbit hide. This pack 
 - Leather boots
 - Leather horse armor
 - Saddle
+- Harness for happy ghast
 - Bundle (four bundles to three leather)
 
 ### Recycles to rabbit hide
