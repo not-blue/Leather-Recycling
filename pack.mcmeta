@@ -2,6 +2,6 @@
   "pack": {
     "min_format": [88, 0],
     "max_format": [88, 0],
-    "description": "Recycle rotten flesh, leather armor, item frames and more back into leather or rabbit hide. For 1.21+."
+    "description": "Recycle rotten flesh, leather armor, item frames and more back into leather or rabbit hide."
   }
 }
