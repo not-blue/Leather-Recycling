@@ -3,9 +3,7 @@
   "category": "misc",
   "group": "leather",
   "ingredients": [
-    {
-      "tag": "leather_recycling:recycles_to_leather"
-    }
+    "#leather_recycling:recycles_to_leather"
   ],
   "result": {
     "id": "minecraft:leather",
