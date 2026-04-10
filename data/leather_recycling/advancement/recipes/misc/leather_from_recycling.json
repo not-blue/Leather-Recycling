@@ -18,10 +18,21 @@
       }
     }
   },
+    "has_bundle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bundle"
+          }
+        ]
+      }
+    },
   "requirements": [
     [
       "has_the_recipe",
-      "has_recyclable_item"
+      "has_recyclable_item",
+      "has_bundle"
     ]
   ],
   "rewards": {
